@@ -1,1 +1,3 @@
-# Legal-Document-Summarizer-using-Streamlit
+# GenAI Hackathon
+
+GenAI Hackathon at SNS Instituitions...
